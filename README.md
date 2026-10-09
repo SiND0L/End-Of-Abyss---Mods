@@ -1,6 +1,6 @@
 # End-Of-Abyss-Mods
 
-iNSTALLATiON : 
+iNSTALLATi0N : 
 - UE4SS
 - AutoHotkey v2.0
 
@@ -8,7 +8,7 @@ Unzip EnemyRadar.zip to mods directory of UE4SS
 
 Unzip RadarOverlay.zip in directory C:\RadarOverlay
 
-In GAME : 
+iN GAME : 
 
 Scan           = F8
 
