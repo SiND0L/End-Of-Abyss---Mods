@@ -16,3 +16,7 @@ iN GAME : start "C:\RadarOverlay\RadarOverlay.ahk" ( for stop *.ahk script, pres
 - HP
 
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/46dd53b4-b484-4b1d-897c-76aa7ae92fc2" />
+
+Lua and ahk scripts was created with AI
+<img width="7459" height="2363" alt="LABEL_AI GENERATED_black transparent" src="https://github.com/user-attachments/assets/f9b63eef-dbd0-4c59-bf1d-e29c385eeb7a" />
+
