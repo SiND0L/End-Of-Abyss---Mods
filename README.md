@@ -11,7 +11,6 @@ Unzip RadarOverlay.zip in directory C:\RadarOverlay
 In GAME : 
 
 Scan           = F8
-
 TeleportNear   = F9
 
 BehindTarget   = F7
