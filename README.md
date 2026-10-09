@@ -14,9 +14,9 @@ iN GAME : start "C:\RadarOverlay\RadarOverlay.ahk" ( for stop *.ahk script, pres
 - Ammo left
 - Quantity of enemy in screen
 - HP
-
+<center>
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/46dd53b4-b484-4b1d-897c-76aa7ae92fc2" />
-
+</center>
 Lua and ahk scripts was created with AI
 
 <img width="186" height="59" alt="LABEL_AI GENERATED_black" src="https://github.com/user-attachments/assets/66967c2f-94e0-48b9-8cc7-41057732e038" />
