@@ -1,8 +1,8 @@
 # End-Of-Abyss-Mods
 
 iNSTALLATi0N : 
-- UE4SS
-- AutoHotkey v2.0
+- UE4SS Experimental ( https://github.com/UE4SS-RE/RE-UE4SS/releases/download/experimental-latest/UE4SS_v3.0.1-1164-g5e627997.zip ) 
+- AutoHotkey v2.0 ( https://www.autohotkey.com/download/ahk-v2.exe )
 
 Unzip EnemyRadar.zip to mods directory of UE4SS
 
