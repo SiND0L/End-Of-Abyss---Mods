@@ -8,7 +8,7 @@ Unzip EnemyRadar.zip to mods directory of UE4SS
 
 Unzip RadarOverlay.zip in directory C:\RadarOverlay
 
-iN GAME : start "C:\RadarOverlay\RadarOverlay.ahk"
+iN GAME : start "C:\RadarOverlay\RadarOverlay.ahk" ( for stop *.ahk script, press ctrl+alt+Q )
 
 - You see your weapon
 - Ammo left
